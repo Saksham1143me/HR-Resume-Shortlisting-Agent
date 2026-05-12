@@ -1,0 +1,80 @@
+{
+  "job_title": "Backend AI Engineer",
+  "company": null,
+  "total_candidates": 1,
+  "shortlisted_count": 1,
+  "scores": [
+    {
+      "candidate_id": "sample_resume",
+      "full_name": "Rahul Sharma",
+      "skills_match": {
+        "score": 7.0,
+        "justification": "Strong match for core required skills including Python, FastAPI, Docker, LangChain, Vector Databases (FAISS), and REST APIs. Has an AWS certification, indicating familiarity, but AWS is not listed as a direct skill. Lacks explicit mention of Git/GitHub and most preferred skills.",
+        "evidence": [
+          "Skills: Python, FastAPI, Docker, LangChain, FAISS, REST APIs",
+          "Work History: Built AI chatbot APIs using FastAPI; Developed semantic search using FAISS and embeddings",
+          "Certifications: AWS Cloud Practitioner",
+          "Projects: AI Resume Screening System, YouTube Transcript Chatbot"
+        ]
+      },
+      "experience_relevance": {
+        "score": 3.0,
+        "justification": "The candidate explicitly states '0 years' of experience, which is a significant mismatch for the 'mid' seniority role requiring 2.0 years. While the AI Backend Intern role involved highly relevant tasks, its duration is unknown and does not meet the minimum experience requirement.",
+        "evidence": [
+          "Experience: 0 years",
+          "Work History: AI Backend Intern at TechNova Solutions",
+          "Job Description: Minimum Experience: 2.0 years, Seniority: mid"
+        ]
+      },
+      "education_certs": {
+        "score": 10.0,
+        "justification": "Meets the required education perfectly with a B.Tech in Computer Science. Additionally, possesses two highly relevant certifications (AWS Cloud Practitioner, LangChain for LLM Applications) which exceed expectations.",
+        "evidence": [
+          "Education: B.Tech in Computer Science from XYZ Institute of Technology",
+          "Certifications: AWS Cloud Practitioner, LangChain for LLM Applications",
+          "Job Description: Required Education: B.Tech/B.E in Computer Science or related field"
+        ]
+      },
+      "project_portfolio": {
+        "score": 7.0,
+        "justification": "Two out of three projects ('AI Resume Screening System', 'YouTube Transcript Chatbot') are highly relevant, demonstrating practical application of AI, LLMs, embeddings, and backend development, directly aligning with job responsibilities.",
+        "evidence": [
+          "Projects: AI Resume Screening System",
+          "Projects: YouTube Transcript Chatbot",
+          "Job Description Responsibilities: Integrate LLMs and embeddings; Build AI APIs using FastAPI"
+        ]
+      },
+      "communication_quality": {
+        "score": 10.0,
+        "justification": "The resume is explicitly noted as well-structured, concise, and clearly highlighting relevant skills and experience with good use of action verbs.",
+        "evidence": [
+          "Resume Writing Notes: The resume is well-structured, concise, and clearly highlights relevant skills and experience with good use of action verbs."
+        ]
+      },
+      "weighted_total": 6.75,
+      "recommendation": "MAYBE",
+      "summary_justification": "The candidate demonstrates a strong technical foundation in core required skills for a Backend AI Engineer, supported by relevant projects and an internship with highly aligned responsibilities. Education and certifications are an excellent fit. However, the stated '0 years' of experience is a significant gap for a mid-level role requiring 2 years, and there are missing required (Git/GitHub) and preferred skills.",
+      "skill_gaps": [
+        "Git/GitHub (Required)",
+        "Kubernetes (Preferred)",
+        "CI/CD (Preferred)",
+        "Streamlit dashboards (Preferred)",
+        "AWS (as a direct skill, though certification is present)"
+      ],
+      "skill_matches": [
+        "Python",
+        "FastAPI",
+        "Docker",
+        "LangChain",
+        "Vector Databases (FAISS)",
+        "REST APIs",
+        "AWS (via certification)",
+        "RAG pipelines (implied by projects/internship)"
+      ],
+      "hr_override": null
+    }
+  ],
+  "generated_at": "2026-05-10T07:39:01.866872+00:00",
+  "model_used": "gemini-2.5-flash",
+  "pipeline_version": "1.0.0"
+}

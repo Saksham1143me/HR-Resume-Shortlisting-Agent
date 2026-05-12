@@ -1,0 +1,54 @@
+Senior Backend Engineer — FinTech Payments Platform
+
+Company: PayFlow Technologies
+Location: Bangalore, India (Hybrid)
+Experience: 4–8 years
+Employment Type: Full-Time
+
+About the Role:
+We are looking for a Senior Backend Engineer to join our core payments infrastructure team.
+You will design, build, and scale the systems that process millions of transactions daily
+across our B2B payments platform. This is a high-impact role with direct ownership of
+critical financial systems.
+
+Required Skills:
+- Python (5+ years) — primary backend language
+- REST API design and development
+- PostgreSQL — query optimisation, indexing, schema design
+- Redis — caching, pub/sub, session management
+- Docker and Kubernetes — containerisation and orchestration
+- AWS (EC2, RDS, SQS, Lambda) — cloud infrastructure
+- Microservices architecture
+- Git and CI/CD pipelines (GitHub Actions / Jenkins)
+
+Preferred Skills:
+- Apache Kafka — event streaming
+- FastAPI or Django REST Framework
+- Celery for distributed task queuing
+- Prometheus + Grafana — observability
+- gRPC
+
+Minimum Education:
+B.Tech / B.E. in Computer Science, Information Technology, or equivalent
+
+Preferred Certifications:
+- AWS Certified Developer – Associate or above
+- AWS Certified Solutions Architect
+
+Key Responsibilities:
+1. Design and build high-throughput payment processing APIs serving 10M+ transactions/day
+2. Optimise database performance — query tuning, connection pooling, read replicas
+3. Architect resilient microservices with fault tolerance and graceful degradation
+4. Lead code reviews and establish engineering best practices for the backend team
+5. Collaborate with product, DevOps, and QA teams in an Agile/Scrum environment
+6. Implement security controls — PCI-DSS compliance, encryption, rate limiting
+7. Write comprehensive unit and integration tests (target: 90%+ code coverage)
+8. Mentor junior engineers
+
+Seniority Level: Senior
+Domain: FinTech / Payments Backend Engineering
+
+What We Value:
+Strong fundamentals, ownership mindset, ability to operate in a fast-paced startup environment.
+The ideal candidate has built scalable distributed systems at high transaction volumes and
+is comfortable navigating ambiguity.

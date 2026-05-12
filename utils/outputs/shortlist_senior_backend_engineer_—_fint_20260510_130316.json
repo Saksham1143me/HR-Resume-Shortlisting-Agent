@@ -1,0 +1,86 @@
+{
+  "job_title": "Senior Backend Engineer \u2014 FinTech Payments Platform",
+  "company": "PayFlow Technologies",
+  "total_candidates": 1,
+  "shortlisted_count": 0,
+  "scores": [
+    {
+      "candidate_id": "sample_resume",
+      "full_name": "Rahul Sharma",
+      "skills_match": {
+        "score": 3.0,
+        "justification": "The candidate possesses some core required skills like Python, FastAPI (preferred), REST APIs, and Docker. However, there are significant gaps in critical required skills such as PostgreSQL, Redis, Kubernetes, specific AWS services (EC2, RDS, SQS, Lambda), Microservices architecture at a senior level, Git, and CI/CD pipelines. Most preferred skills are also missing.",
+        "evidence": [
+          "Skills: Python, FastAPI, Docker, REST APIs",
+          "Required Skills: PostgreSQL, Redis, Kubernetes, AWS (EC2, RDS, SQS, Lambda), Microservices architecture, Git, CI/CD pipelines (GitHub Actions / Jenkins)"
+        ]
+      },
+      "experience_relevance": {
+        "score": 0.0,
+        "justification": "The candidate explicitly states 0 years of experience, which is a direct mismatch with the minimum requirement of 4.0 years for a senior role. Their single work history entry is an 'AI Backend Intern' role, which does not demonstrate experience in FinTech/Payments, high-throughput systems (10M+ transactions/day), database optimization, or leading engineering best practices as required for a senior position.",
+        "evidence": [
+          "Experience: 0 years",
+          "Minimum Experience: 4.0",
+          "Work History: AI Backend Intern at TechNova Solutions",
+          "Responsibilities: Design and build high-throughput payment processing APIs serving 10M+ transactions/day; Optimise database performance; Lead code reviews and establish engineering best practices"
+        ]
+      },
+      "education_certs": {
+        "score": 5.0,
+        "justification": "The candidate meets the required education with a B.Tech in Computer Science. They have an AWS certification (Cloud Practitioner), but it is foundational and does not meet the preferred level of 'AWS Certified Developer \u2013 Associate or above' or 'AWS Certified Solutions Architect'.",
+        "evidence": [
+          "Education: B.Tech in Computer Science from XYZ Institute of Technology",
+          "Required Education: B.Tech / B.E. in Computer Science, Information Technology, or equivalent",
+          "Certifications: AWS Cloud Practitioner",
+          "Preferred Certifications: AWS Certified Developer \u2013 Associate or above, AWS Certified Solutions Architect"
+        ]
+      },
+      "project_portfolio": {
+        "score": 0.0,
+        "justification": "None of the candidate's listed projects ('AI Resume Screening System', 'YouTube Transcript Chatbot', 'Placement Portal using MERN Stack') are related to FinTech, payments, high-throughput transaction processing, or scalable distributed financial systems, which are central to the job description.",
+        "evidence": [
+          "Projects: AI Resume Screening System, YouTube Transcript Chatbot, Placement Portal using MERN Stack",
+          "Domain: FinTech / Payments Backend Engineering",
+          "Responsibilities: Design and build high-throughput payment processing APIs serving 10M+ transactions/day"
+        ]
+      },
+      "communication_quality": {
+        "score": 10.0,
+        "justification": "Based on the 'Resume Writing Notes', the resume is well-structured, concise, and clearly highlights relevant skills and experience with good use of action verbs, indicating exceptional communication quality.",
+        "evidence": [
+          "Resume Writing Notes: The resume is well-structured, concise, and clearly highlights relevant skills and experience with good use of action verbs."
+        ]
+      },
+      "weighted_total": 2.65,
+      "recommendation": "NO_HIRE",
+      "summary_justification": "The candidate is significantly underqualified for this Senior Backend Engineer role, primarily due to a complete lack of relevant experience (0 years vs. 4 years minimum) and a substantial mismatch in domain-specific skills and project experience (FinTech/Payments, high-throughput systems). While their educational background is appropriate and their resume is well-written, the core technical and experiential requirements for a senior position in a critical payments platform are not met.",
+      "skill_gaps": [
+        "PostgreSQL",
+        "Redis",
+        "Kubernetes",
+        "AWS (EC2, RDS, SQS, Lambda) at a senior level",
+        "Microservices architecture (at scale/resilience)",
+        "Git",
+        "CI/CD pipelines (GitHub Actions / Jenkins)",
+        "Apache Kafka",
+        "Django REST Framework",
+        "Celery",
+        "Prometheus",
+        "Grafana",
+        "gRPC",
+        "Experience in designing/optimizing high-throughput payment systems"
+      ],
+      "skill_matches": [
+        "Python",
+        "FastAPI",
+        "REST APIs",
+        "Docker",
+        "AWS Cloud Practitioner (basic AWS knowledge)"
+      ],
+      "hr_override": null
+    }
+  ],
+  "generated_at": "2026-05-10T07:33:16.148886+00:00",
+  "model_used": "gemini-2.5-flash",
+  "pipeline_version": "1.0.0"
+}

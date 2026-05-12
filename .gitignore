@@ -1,0 +1,44 @@
+# === SECURITY: Never commit these ===
+.env
+*.env
+secrets/
+credentials/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# LLM Cache (can contain PII fragments)
+cache/
+*.db
+
+# Outputs (may contain PII)
+outputs/*.pdf
+outputs/*.html
+outputs/*.json
+
+# Logs (may contain PII)
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test data with real PII
+data/real_*

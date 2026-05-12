@@ -1,0 +1,77 @@
+{
+  "job_title": "Backend AI Engineer",
+  "company": null,
+  "total_candidates": 1,
+  "shortlisted_count": 1,
+  "scores": [
+    {
+      "candidate_id": "sample_resume",
+      "full_name": "Rahul Sharma",
+      "skills_match": {
+        "score": 7.0,
+        "justification": "The candidate possesses strong matches for core required skills including Python, FastAPI, Docker, LangChain, REST APIs. FAISS is a relevant technology for vector databases, and AWS is covered by a certification. The main explicit skill gap is Git/GitHub not being listed in the skills section.",
+        "evidence": [
+          "Skills: Python, FastAPI, Docker, LangChain, FAISS, REST APIs",
+          "Certifications: AWS Cloud Practitioner"
+        ]
+      },
+      "experience_relevance": {
+        "score": 3.0,
+        "justification": "The candidate explicitly states 0 years of experience, which is significantly below the minimum requirement of 2.0 years for a mid-level role. While the internship highlights are highly relevant to the job responsibilities (building AI chatbot APIs using FastAPI, semantic search using FAISS and embeddings), the lack of professional tenure is a critical mismatch.",
+        "evidence": [
+          "Experience: 0 years",
+          "Minimum Experience: 2.0",
+          "Work History: AI Backend Intern at TechNova Solutions | Highlights: Built AI chatbot APIs using FastAPI; Developed semantic search using FAISS and embeddings"
+        ]
+      },
+      "education_certs": {
+        "score": 10.0,
+        "justification": "The candidate meets the required education with a B.Tech in Computer Science. Additionally, the AWS Cloud Practitioner certification directly addresses a required skill (AWS), and the LangChain for LLM Applications certification reinforces another key skill.",
+        "evidence": [
+          "Education: B.Tech in Computer Science from XYZ Institute of Technology",
+          "Required Education: B.Tech/B.E in Computer Science or related field",
+          "Certifications: AWS Cloud Practitioner, LangChain for LLM Applications"
+        ]
+      },
+      "project_portfolio": {
+        "score": 7.0,
+        "justification": "Two out of three projects are highly relevant to the role's responsibilities. 'AI Resume Screening System' and 'YouTube Transcript Chatbot' directly align with building AI APIs and integrating LLMs/embeddings. The 'Placement Portal using MERN Stack' demonstrates general backend development but is less relevant to the specific tech stack.",
+        "evidence": [
+          "Projects: AI Resume Screening System",
+          "Projects: YouTube Transcript Chatbot",
+          "Projects: Placement Portal using MERN Stack"
+        ]
+      },
+      "communication_quality": {
+        "score": 10.0,
+        "justification": "The resume notes explicitly state that the resume is well-structured, concise, and clearly highlights relevant skills and experience with good use of action verbs, indicating excellent communication quality.",
+        "evidence": [
+          "Resume Writing Notes: The resume is well-structured, concise, and clearly highlights relevant skills and experience with good use of action verbs."
+        ]
+      },
+      "weighted_total": 6.75,
+      "recommendation": "MAYBE",
+      "summary_justification": "The candidate presents a strong technical skill set and relevant project experience for a Backend AI Engineer role, with excellent educational background and certifications that directly support required skills. However, the stated 0 years of experience is a significant gap against the 2-year minimum requirement for a mid-level position, despite the highly relevant internship content.",
+      "skill_gaps": [
+        "Git/GitHub (required, not explicitly listed in skills)",
+        "Kubernetes (preferred)",
+        "CI/CD (preferred)",
+        "RAG pipelines (preferred)",
+        "Streamlit dashboards (preferred)"
+      ],
+      "skill_matches": [
+        "Python",
+        "FastAPI",
+        "Docker",
+        "LangChain",
+        "FAISS (as a vector database component)",
+        "REST APIs",
+        "AWS (via certification)"
+      ],
+      "hr_override": null
+    }
+  ],
+  "generated_at": "2026-05-12T06:09:44.543647+00:00",
+  "model_used": "gemini-2.5-flash",
+  "pipeline_version": "1.0.0"
+}
