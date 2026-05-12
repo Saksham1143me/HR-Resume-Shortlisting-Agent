@@ -1,5 +1,5 @@
 🎯 HR Resume & LinkedIn Shortlisting Agent
-> **AI Enablement Internship — Task 1**  
+> **AI Enablement Internship 
 > An end-to-end AI agent that evaluates resumes against a Job Description using Google Gemini LLM reasoning, produces a ranked shortlist with a transparent 5-dimension rubric, and outputs professional PDF/HTML/JSON reports.
 ---
 📋 Table of Contents
