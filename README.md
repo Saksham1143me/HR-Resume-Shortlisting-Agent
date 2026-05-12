@@ -1,5 +1,4 @@
 🎯 HR Resume & LinkedIn Shortlisting Agent
-> **AI Enablement Internship 
 > An end-to-end AI agent that evaluates resumes against a Job Description using Google Gemini LLM reasoning, produces a ranked shortlist with a transparent 5-dimension rubric, and outputs professional PDF/HTML/JSON reports.
 ---
 📋 Table of Contents
@@ -19,7 +18,7 @@ Human-in-the-Loop
 Submission Checklist
 ---
 📌 Project Overview
-This project is Task 1 of the AI Enablement Internship. It builds a working prototype of an AI agent that:
+It builds a working prototype of an AI agent that:
 Accepts a Job Description (JD) as text or file
 Accepts a batch of resumes in PDF or DOCX format
 Uses Google Gemini to parse the JD into structured requirements
@@ -449,27 +448,6 @@ Reflected in all reports — shows original AI score AND override with reason
   "reason": "Personally interviewed — demonstrated strong system design skills not visible in resume"
 }
 ```
----
-✅ Submission Checklist
-As required by the brief:
-Requirement	Status	Location
-GitHub Repository (public)	✅	This repo
-`.env.example`	✅	`.env.example`
-`requirements.txt`	✅	`requirements.txt`
-`README.md` with setup instructions	✅	This file
-Agent architecture diagram	✅	Architecture section
-LLM model name + version	✅	`gemini-2.5-flash` — Tech Stack section
-LLM choice rationale	✅	Tech Stack section
-Agent framework + architecture explanation	✅	LangGraph, Plan-and-Execute — Tech Stack section
-Key system prompts documented	✅	Prompt Design section
-Guardrails explained	✅	Prompt Design section
-Security mitigations (graded)	✅	Security section
-Test with ≥ 5 resumes (mix of good/partial/no match)	✅	`data/sample_resumes/` (5 profiles)
-Sample shortlist report	✅	`outputs/` (PDF + HTML + JSON)
-3–5 minute demo	✅	`streamlit run ui/streamlit_app.py`
-8–10 slide presentation deck	✅	`HR_Agent_Presentation.pptx`
----
 🙏 Acknowledgements
 Built with: LangChain · LangGraph · Google Gemini · Streamlit · Pydantic · PyMuPDF · ReportLab
 ---
-AI Enablement Internship · Task 1 · Individual Submission
