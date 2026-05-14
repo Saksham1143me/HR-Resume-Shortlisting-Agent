@@ -555,9 +555,3 @@ This project demonstrates:
 * Secure AI system design
 * Human-AI collaboration
 * Production-ready architecture
-
-It is designed as a strong internship / portfolio project showcasing practical agentic AI development using modern LLM tooling.
-
----
-
-📄 Original source content referenced from uploaded markdown file. fileciteturn0file0L1-L400
